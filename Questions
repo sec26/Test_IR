@@ -1,0 +1,67 @@
+Robust Data backup
+    Are imp systems and data backed up daily to an offiste location with ability to restore multiple versions back atleast 30days 
+    data backups tested ?
+
+"Web Browser maangment and DNS filtering 
+Avoid danger and filter out connections to mal. Websites , susp.domain names etc.,..
+    Is mal. Web content being blocked ?
+    Web browser security settings are maangeed ?
+
+"Phisihing Prevention and Awarness
+    Take steps to increase and maintain the awarness of phishing threats,
+    Conducts ongong phishing and social engg campaigns , simulate phishing exersise
+    offer awaness trainning to employees
+    utilizze technologies to block mal.emails "
+    Do we have  tabletop excersise concentrates phisihinh ? Phishing response scenarios conducted ?
+    are users trained to recognie phishing emails ?
+    Is emails fiiltered to protects against the phishing emails ?
+
+
+Network Perimeter Monitoring (NM)
+    Is perimeter network traffic monitored?
+    Is internal network traffic monitored?
+    Are networks segmented to protect mission critical assets?
+    Has the organization established a baseline of network traffic and is it used to identify anomalous activity?
+
+Asset Management (AM)
+    Have the organization’s hardware and software assets been inventoried and is the inventory managed?
+    Has the organization removed all unsupported hardware and software from its operating environment?
+    Does the organization detect rogue hardware and alert key stakeholders?
+    Does the organization quarantine and/or remove all rogue hardware"
+    Are documented and approved secure configurations used to manage the organization’s hardware and software assets?
+    Are standard baseline images used to control hardware and software configurations?
+    Does the organization manage system configurations using security hardening guides?
+
+Patch and Update Management (PM)
+    Is all public-facing software patched for vulnerabilities within 15 days for vulnerabilities rated as “Critical” and 30 days for vulnerabilities rated as “High”?
+    Are all internal-facing software and firewalls patched for vulnerabilities within 30 days for both vulnerabilities rated as “Critical” and for vulnerabilities rated as “High”?
+    Are all software and firewalls patched for vulnerabilities within 15 days for vulnerabilities rated as “Critical” and 30 days for vulnerabilities rated as “High”?
+    Are all software and firewalls patched for vulnerabilities within 3 days for vulnerabilities rated as “Critical” and 7 days for vulnerabilities rated as “High”?
+
+User and Access Management (UM)
+    Are strong and unique passwords implemented throughout the entire organization?
+    Is two-factor authentication implemented for all privileged (e.g. system administrators) and remote users
+    Is two-factor authentication implemented for all users?
+    Is the principle of least privilege enforced through policies and procedures?
+    Is least privilege enforced through technical (technology based) restrictions?
+    Are audit logs maintained for all privileged (e.g. system administrator) accounts?
+    Is role-based security training conducted?
+    Is rogue hardware being detected?
+    Are users who attempt to install rogue hardware counseled against installing rogue hardware?
+
+Application Integrity and allow list
+    Is there a list of known bad software (a “Blocklist”), and is the software on that list being blocked?
+    Has the organization documented a list of known approved software (an “Allowlist”)?
+    Is the Allowlist organized by software publisher, and is that list used to allow only approved software to run on organizational systems?
+    Has the organization documented a list of known approved software (an Allowlist) organized by software publisher and version number, and is that list used to allow     only approved software to run on organizational systems?
+
+Incident Resopnse
+    Has the organization developed an incident response plan?
+    Are cybersecurity incidents reported and escalated to the appropriate stakeholders?
+    Have disaster recovery procedures been developed?
+    Does the organization conduct annual incident response tabletop exercises that include ransomware response scenarios?
+    Are incident response tabletop exercises performed at least twice a year?
+    Is a physical incident response exercise performed at least once a year?
+    Are physical incident response exercises performed at least twice a year?
+    Has the organization implemented redundant systems where appropriate for the purpose of resiliency?
+    Have redundant and resilient systems and data been implemented throughout the organization?
